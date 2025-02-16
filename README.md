@@ -53,6 +53,7 @@ This project ingests, transforms, and analyzes Formula 1 racing data from the **
 
 
 ## Solution Architecture Breakdown
+![SolutionsArchitecture.png](Pictures%2SolutionsArchitecture.png)
 
 ### 1. Data Ingestion  
 - **Source**: Data is extracted from the **Ergast API**, which provides historical and real-time Formula 1 racing data (e.g., race results, driver standings, circuit details).  
